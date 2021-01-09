@@ -34,9 +34,7 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/DQDVJNYPC7AX
   date_end: ""
   date_start: "2021-01-03"
-  description:  Involved gathering, cleaning, organizing, modelling, and 
-  visualising data with the goal of extracting helpful insights that can inform
-  decision-making.
+  description: Involved gathering, cleaning, organizing, modelling, and visualising data with the goal of extracting helpful insights that can inform decision-making.
   organization: Coursera
   organization_url: https://www.coursera.org
   title: IBM Data Analyst Specialization
