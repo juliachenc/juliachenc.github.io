@@ -24,15 +24,18 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 100%
+- description: 90%
   icon: database
   icon_pack: fas
   name: SQL
-- description: 100%
+- description: 90%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-
+- description: 50%
+  icon: bezier-curve
+  icon_pack: far
+  name: Algorithm
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
