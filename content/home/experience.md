@@ -63,7 +63,7 @@ experience:
     date_end: '2018-05-14'
     description: |2-
     
-        Studied in BS Applied Statistics and transferred to UCSB 
+        Studied in the BS Applied Statistics and transferred to the UCSB 
         
         * CS 11800: Problem Solving and Object Oriented Programming
         * CS 23500: Introduction to Organizational Computing
