@@ -14,13 +14,13 @@ organizations:
   url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and #programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Healthcare Data Science 
+- Databases
 
 # Education to show in About widget
 education:
@@ -37,18 +37,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/juliachenc
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/juliachenc
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,6 +65,8 @@ email: ""
 highlight_name: false
 ---
 
-I am 
+I am a Applied Data Science Graduate student at the University of Southern California. With a background in Statistics, I adept at the process of making statistics inferences, probability theory and bayesian analysis. With a fascination with data science, I am skilled in data visualization, machine learning and acquired advanced knowledge of R, Python, SQL. 
+
+I'm an ambitious and self-motivated graduate with a strong inclination towards data science, and I have been working on both technical skills that allow me to extract meaningful information through data, and the ability to deliver findings to both technical and non-technical audiences. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
