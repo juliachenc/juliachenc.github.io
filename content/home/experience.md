@@ -40,7 +40,7 @@ experience:
     location: California
     date_start: '2019-08-05'
     date_end: '2020-12-18'
-    description: 
+    description: |2-
     
         
         * PSTAT 10:  Principles of Data Science with R
@@ -61,7 +61,7 @@ experience:
     location: Indiana
     date_start: '2016-08-23'
     date_end: '2018-05-14'
-    description: 
+    description: |2-
     
         Studied in BS Applied Statistics and transferred to UCSB 
         
