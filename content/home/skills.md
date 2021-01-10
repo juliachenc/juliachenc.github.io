@@ -35,7 +35,7 @@ feature:
 - description: 90%
   icon: comments
   icon_pack: fas
-  name: Communication & team work 
+  name: Communication & Team work 
 - description: 50%
   icon: bezier-curve
   icon_pack: fas
