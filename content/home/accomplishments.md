@@ -4,10 +4,10 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -39,6 +39,7 @@ item:
   organization_url: https://www.coursera.org
   title: IBM Data Analyst Specialization
   url: ""
+  
 #- certificate_url: https://www.datacamp.com
 #  date_end: "2017-12-21"
 #  date_start: "2017-07-01"
