@@ -42,4 +42,11 @@ experience:
     date_start: '2019-08-05'
     date_end: '2020-12-18'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+    company: University of California, Santa Barbara
+    company_url: ''
+    location: California
+    date_start: '2019-08-05'
+    date_end: '2020-12-18'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
