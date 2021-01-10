@@ -34,8 +34,8 @@ feature:
   name: Statistics
 - description: 90%
   icon: comments
-  icon_pack: far
-  name: Communication and team work 
+  icon_pack: fas
+  name: Communication & team work 
 - description: 50%
   icon: bezier-curve
   icon_pack: fas
