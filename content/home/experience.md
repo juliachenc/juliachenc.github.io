@@ -47,5 +47,10 @@ experience:
     location: Indiana
     date_start: '2016-08-23'
     date_end: '2018-05-14'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: 
+    
+        Major in BS Applied Statistics and transferred to UCSB 
+        * Analysing
+        * Modelling
+        * Deploying
 ---
