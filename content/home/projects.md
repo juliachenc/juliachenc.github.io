@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Graduate Project
-    tag: Graduate Project
-  - name: Undergraduate Project
-    tag:Undergraduate Project
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Other
+    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
