@@ -25,6 +25,10 @@ feature:
   icon_pack: fab
   name: Python
 - description: 100%
+  icon: database
+  icon_pack: fas
+  name: SQL
+- description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
