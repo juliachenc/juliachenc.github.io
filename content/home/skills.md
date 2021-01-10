@@ -32,9 +32,13 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 90%
+  icon: comments
+  icon_pack: far
+  name: Communication and team work 
 - description: 50%
   icon: bezier-curve
-  icon_pack: far
+  icon_pack: fas
   name: Algorithm
 
 # Uncomment to use emoji icons.
