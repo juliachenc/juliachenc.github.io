@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Graduate Courses
-    company: GenCoin
+    company: University of Southern California
     company_url: ''
     location: California
-    date_start: '2017-01-01'
+    date_start: '2021-01-15'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,10 +36,10 @@ experience:
         * Deploying
         
   - title: Undergraduate Courses
-    company: University X
+    company: University of California, Santa Barbara
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    date_start: '2019-08-05'
+    date_end: '2020-12-18'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
