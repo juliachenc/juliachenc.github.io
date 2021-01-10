@@ -43,7 +43,7 @@ experience:
     date_end: '2020-12-18'
     description: Taught electronic engineering and researched semiconductor physics.
     
-    company: Purdue University
+  - company: Purdue University
     company_url: ''
     location: Indiana
     date_start: '2016-08-23'
