@@ -25,8 +25,8 @@ date_format: Jan 2006
 
 #experience:
 item:
-  - title: UCSB Chinese Student Association
-    company: Member in Outreach Department
+  - title: Member in Outreach Department
+    organization: UCSB Chinese Student Association
     company_url: ''
     location: California
     date_start: '2019-09-23'
@@ -39,7 +39,7 @@ item:
         * Set up a discussion group to answer coming Chinese transfer students' questions such as Visas, i20, course selection, housing, etc. Besides, and hold a Virtual Campus tour with other members.
         
   - title: Vice President
-    company: Purdue Dance All Out Club
+    organization: Purdue Dance All Out Club
     company_url: ''
     location: Indiana
     date_start: '2016-08-18'
@@ -52,7 +52,7 @@ item:
         * Met every week to practice choreograph dancing; collaborated with choreographers to modify and refine dance steps for the performance on 2017, 2018 PUCSSA New Year Gala, Mid-Autumn Festival Gala.
         
   - title: Member
-    company: Purdue College of Liberal Art International Students Council
+    organization:  Purdue College of Liberal Art International Students Council
     company_url: ''
     location: Indiana
     date_start: '2016-09-18'
