@@ -68,6 +68,6 @@ highlight_name: false
 
 I am an Applied Data Science Graduate student at the University of Southern California. With a background in Statistics, I adept at the process of making statistics inferences, probability theory and bayesian analysis. With a fascination with data science, I am skilled in data visualization, machine learning and acquired advanced knowledge of R, Python, SQL. 
 
-I'm an ambitious and self-motivated graduate with a strong inclination towards data science, and I have been working on both technical skills that allow me to extract meaningful information through data, and the ability to deliver findings to both technical and non-technical audiences. 
+I am an ambitious and self-motivated graduate with a strong inclination towards data science, and I have been working on both technical skills that allow me to extract meaningful information through data, and the ability to deliver findings to both technical and non-technical audiences. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/USC_Resume_20Dec.pdf" "newtab" >}}resumé{{< /staticref >}}.
