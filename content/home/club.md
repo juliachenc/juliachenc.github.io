@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Leadership \& Campus Involvement
+widget: Leadership & Campus Involvement
 
 # This file represents a page section.
 headless: true
