@@ -53,7 +53,7 @@ experience:
     company: Purdue College of Liberal Art International Students Council
     company_url: ''
     location: Indiana
-     date_start: '2016-09-18'
+    date_start: '2016-09-18'
     date_end: '2018-05-06'
     description: |2-
     
