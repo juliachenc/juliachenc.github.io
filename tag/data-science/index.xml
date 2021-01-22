@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Jianing (Julia) Chen</title>
+    <link>https://juliachenc.github.io/tag/data-science/</link>
+      <atom:link href="https://juliachenc.github.io/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://juliachenc.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science</title>
+      <link>https://juliachenc.github.io/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Building a Classifier for Credit Default Risk</title>
+      <link>https://juliachenc.github.io/project/195/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://juliachenc.github.io/project/195/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download &lt;a href=&#34;https://juliachenc.github.io/media/PSTAT%20195%20Report.pdf&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In order to predict the clients who default and do not default next month, we used Principal Component Analysis to explore the relationship between Bill Amount and Payment Amount, indeed we used logistic regression and confusion matrix for building the classifier. Based on the Principal Component Analysis we reduced out 12 variables into 7 PCs and gives us 78% of the accuracy; for the logistic regression, we try to fit the model using simple logistic model, over-sampling, under-sampling and feature selection. All in all our best model is under-sampled model with feature selection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Machine Learning, Logistic Regression, Principal Component Analysis, Feature Engineering&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

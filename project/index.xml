@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jianing (Julia) Chen</title>
+    <link>https://juliachenc.github.io/project/</link>
+      <atom:link href="https://juliachenc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://juliachenc.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://juliachenc.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Building a Classifier for Credit Default Risk</title>
+      <link>https://juliachenc.github.io/project/195/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://juliachenc.github.io/project/195/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download &lt;a href=&#34;https://juliachenc.github.io/media/PSTAT%20195%20Report.pdf&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In order to predict the clients who default and do not default next month, we used Principal Component Analysis to explore the relationship between Bill Amount and Payment Amount, indeed we used logistic regression and confusion matrix for building the classifier. Based on the Principal Component Analysis we reduced out 12 variables into 7 PCs and gives us 78% of the accuracy; for the logistic regression, we try to fit the model using simple logistic model, over-sampling, under-sampling and feature selection. All in all our best model is under-sampled model with feature selection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Machine Learning, Logistic Regression, Principal Component Analysis, Feature Engineering&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do Interventions Matter in COVID-19?</title>
+      <link>https://juliachenc.github.io/project/120c/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://juliachenc.github.io/project/120c/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download &lt;a href=&#34;https://juliachenc.github.io/media/PSTAT%20120C%20Review.pdf&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  COVID-19, Transmission Dynamical model, Bayesian Epidemiological model&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Chickenpox with SARIMA Model</title>
+      <link>https://juliachenc.github.io/project/174/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://juliachenc.github.io/project/174/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download &lt;a href=&#34;https://juliachenc.github.io/media/PSTAT%20174%20Project.pdf&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Time Series Anlysis, SARIMA, Box Cox transformation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heart Failure Survival Analysis</title>
+      <link>https://juliachenc.github.io/project/175/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://juliachenc.github.io/project/175/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download &lt;a href=&#34;https://juliachenc.github.io/media/PSTAT%20175%20Project.pdf&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Heart failure is defined as inability of the heart to pump enough blood to sustain normal bodily functions. It is well-established that numerous researches focus on investigating heart failure problems. This study aims to analyze the survival rate of heart failure patients and determine important variables on the statistical model of identifying heart failure problems in practical settings.&lt;/p&gt;
+&lt;p&gt;To test if age, ejection fraction, high blood pressure and serum creatinine are important variables on deciding heart failure patients’ survival rate, we draw Kaplan-Meier plots, then use Cox Proportional Hazard model and Analysis of Variance (ANOVA) Table to determine statistically significant parameters. Later, we perform forward selection to identify the optimal model with the smallest AIC. Furthermore, we use Random Forests and K-Nearest Neighbors to help improve proposed models by calculating the training accuracy.&lt;/p&gt;
+&lt;p&gt;We have found that the best model to use to predict heart failure patients’ survival rates is Surv ~ age+ejection fraction+serum creatinine+high blood pressure. On this basis, information on age, ejection fraction, serum creatinine, and high blood pressure should be taken into consideration when a physician is trying to know whether the heart failure patient can survive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt; Kaplan-Meier, Cox Proportional Hazard Model, Machine Learning&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Process Control for Decreasing Medication Error</title>
+      <link>https://juliachenc.github.io/project/140/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://juliachenc.github.io/project/140/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download &lt;a href=&#34;https://juliachenc.github.io/media/PSTAT140%20Project.pdf&#34; target=&#34;_blank&#34;&gt;Project&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;  Process Control, DMAIC, SIPOC Diagram, Value Stream map, Pareto Diagram, Demerit Systems, Out of Control Chart&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
