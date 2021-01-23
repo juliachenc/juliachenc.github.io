@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianing Chen
+title: Jianing (Julia) Chen
 
 # Is this the primary user of the site?
 superuser: true
