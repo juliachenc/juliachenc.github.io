@@ -47,7 +47,7 @@ experience:
         Summer 2022 
         * CSCI 567: Machine Learning
     
-        Fall 2021
+        Fall 2021 
         * 
         
         
