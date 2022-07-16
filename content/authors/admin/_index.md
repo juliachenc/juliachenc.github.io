@@ -70,4 +70,4 @@ I am an Applied Data Science Graduate student at the University of Southern Cali
 
 I am an ambitious and self-motivated graduate with a strong inclination towards data science, and I have been working on both technical skills that allow me to extract meaningful information through data, and the ability to deliver findings to both technical and non-technical audiences. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/USC_Resume_20Dec.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/05_10ResumeDA_Fall.pdf" "newtab" >}}resumé{{< /staticref >}}.

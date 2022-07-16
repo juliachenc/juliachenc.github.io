@@ -31,8 +31,24 @@ experience:
     description: |2-
         
         
+        Spring 2021 
         * DSCI 551: Foundations of Data Management
         * DSCI 552: Machine Learning for Data Science
+        
+        Fall 2021 
+        * CSCI 544: Applied Natural Language Processing
+        * DSCI 560: Data Science Professional Practicum 
+                    (become a Teaching Assistant in Fall 2022)
+        
+        Spring 2022
+        * CSCI 585: Database Systems 
+        * DSCI 553: Foundations and Applications of Data Mining 
+        
+        Summer 2022 
+        * CSCI 567: Machine Learning
+        
+        
+        
         
   - title: Undergraduate Courses
     company: University of California, Santa Barbara
