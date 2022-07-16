@@ -45,7 +45,10 @@ experience:
         * DSCI 553: Foundations and Applications of Data Mining 
         
         Summer 2022 
-        * CSCI 567: Machine Learning  
+        * CSCI 567: Machine Learning
+    
+        Fall 2021
+        * 
         
         
         
