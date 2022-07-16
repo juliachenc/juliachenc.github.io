@@ -48,7 +48,7 @@ experience:
         * CSCI 567: Machine Learning
     
         Fall 2021 
-        * DSCI 556:
+        * DSCI 556: 
         
         
         
