@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: California
     date_start: '2021-01-15'
-    date_end: ''
+    date_end: '2022-12-14'
     description: |2-
         
         
@@ -48,7 +48,7 @@ experience:
         * CSCI 567: Machine Learning
     
         Fall 2021 
-        * DSCI 556: 
+        * DSCI 556: User Experience Design and Strategy
         
         
         

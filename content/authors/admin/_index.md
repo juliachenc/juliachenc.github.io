@@ -66,8 +66,12 @@ email: ""
 highlight_name: false
 ---
 
-I am an Applied Data Science Graduate student at the University of Southern California. With a background in Statistics, I adept at the process of making statistics inferences, probability theory and bayesian analysis. With a fascination with data science, I am skilled in data visualization, machine learning and acquired advanced knowledge of R, Python, SQL. 
+I am a graduate student in applied data science at the University of Southern California. During my studies and my related research internships, I have acquired skills in data visualization, machine learning and advanced knowledge of R, Python, and SQL. In my prior studies in statistics, I have been trained in statistical inferences, probability theory, and bayesian analysis.
 
-I am an ambitious and self-motivated graduate with a strong inclination towards data science, and I have been working on both technical skills that allow me to extract meaningful information through data, and the ability to deliver findings to both technical and non-technical audiences. 
+In my work, I have used several technical tools to extract, transform, analyze, and visualize large amounts of data. For example, I worked on the tracking of COVID-19 in Californian hospitals for which I retrieved data from APIs, build a new database, analyzed the data, and visualized the results (available [here](https://uscbiostats.github.io/COVID19/)).
+
+In a separate research internship, I visualized a large dataset on public pensions across the United States in an interactive dashboard (available [here](http://publicpension.stanford.edu/)).
+
+I am ambitious and self-motivated and have a strong inclination towards data science. My technical skills allow me to extract decision-relevant information from data. Further, I can deliver my findings to both technical and non-technical audiences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/05_10ResumeDA_Fall.pdf" "newtab" >}}resumé{{< /staticref >}}.
