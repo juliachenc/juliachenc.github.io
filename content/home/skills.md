@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 70%
+- description: 80%
   icon: python
   icon_pack: fab
   name: Python
@@ -36,7 +36,7 @@ feature:
   icon: comments
   icon_pack: fas
   name: Communication & Team work 
-- description: 50%
+- description: 60%
   icon: bezier-curve
   icon_pack: fas
   name: Algorithm
