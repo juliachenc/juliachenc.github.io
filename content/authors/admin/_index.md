@@ -74,4 +74,4 @@ In a separate research internship, I visualized a large dataset on public pensio
 
 I am ambitious and self-motivated and have a strong inclination towards data science. My technical skills allow me to extract decision-relevant information from data. Further, I can deliver my findings to both technical and non-technical audiences.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/05_10ResumeDA_Fall.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JianingJuliaChen_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
