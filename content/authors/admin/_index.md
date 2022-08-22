@@ -21,6 +21,7 @@ interests:
 - Machine Learning
 - Healthcare Data Science 
 - Databases Management
+- Statistical Analysis 
 
 # Education to show in About widget
 education:
@@ -28,6 +29,9 @@ education:
   - course: BSc in Statistics and Data Science 
     institution: University of California, Santa Barbara
     year: 2020
+  - course: MSc in Applied Data Science 
+    institution: University of Southern California
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
